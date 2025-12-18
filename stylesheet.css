@@ -1,0 +1,48 @@
+h1{
+
+/*文字の色を#ff0000に変更*/
+  color:#ff0000;
+
+/*フォントをserifにする*/
+  font-family:serif;
+
+/*背景の色を#dddにする*/
+  background-color:#ddd;
+
+/*幅を500px、高さを80pxにする*/
+  width:500px;
+  height:80px;
+
+}
+
+
+p{
+
+/*文字の色を#0000ffに変更*/
+  color:#0000ff;
+
+/*フォントをserifにする*/
+  font-family:serif;
+
+/*背景の色を#ffd800にする*/
+  background-color:#ffd800
+
+}
+
+img {
+
+/* 高さを50pxにする */
+  height:50px;
+  
+/* 幅を70pxにする */
+  width:70px;
+  
+}
+
+.selected{
+
+  color:blue;
+
+}
+
+
